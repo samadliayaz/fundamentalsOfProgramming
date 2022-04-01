@@ -7,6 +7,7 @@
 - Inputs, outputs, operators                 --> Homework 1.2 + Entrance test 1.2
 - Conditional statements                     --> Homework 1.3 + Entrance test 1.3
 - Introduction to algorithms                 --> Homework 1.4 + Entrance test 1.4
+- Functions
 
 ### Sprint 2
 - Loops (for, while)                         --> Homework 2.1 + Entrance test 2.1
